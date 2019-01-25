@@ -15,8 +15,8 @@ You are planning a big programming conference and have received many proposals w
 • Presenters will be very punctual; there needs to be no gap between sessions.<br/>
  <br/>
 Note that depending on how you choose to complete this problem, your solution may give a different ordering or combination of talks into tracks. This is acceptable; you don’t need to exactly duplicate the sample output given here.
- <br/>
-Test input:<br/>
+ <br/><br/>
+Test input:<br/><br/>
 Writing Fast Tests Against Enterprise Rails 60min<br/>
 Overdoing it in Python 45min<br/>
 Lua for the Masses 30min<br/>
@@ -36,9 +36,9 @@ Ruby vs. Clojure for Back-End Development 30min<br/>
 Ruby on Rails Legacy App Maintenance 60min<br/>
 A World Without HackerNews 30min<br/>
 User Interface CSS in Rails Apps 30min<br/>
- 
-Test output: <br/>
-Track 1:<br/>
+ <br/>
+Test output: <br/><br/>
+Track 1:<br/><br/>
 09:00AM Writing Fast Tests Against Enterprise Rails 60min<br/>
 10:00AM Overdoing it in Python 45min<br/>
 10:45AM Lua for the Masses 30min<br/>
@@ -51,8 +51,8 @@ Track 1:<br/>
 04:00PM Ruby vs. Clojure for Back-End Development 30min<br/>
 04:30PM User Interface CSS in Rails Apps 30min<br/>
 05:00PM Networking Event<br/>
- <br/>
-Track 2:<br/>
+ <br/><br/>
+Track 2:<br/><br/>
 09:00AM Communicating Over Distance 60min<br/>
 10:00AM Rails Magic 60min<br/>
 11:00AM Woah 30min<br/>
